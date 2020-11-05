@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'NiseSegaSonic';
+    src: url('NiseSegaSonic.eot');
+    src: url('NiseSegaSonic.eot?#iefix') format('embedded-opentype'),
+        url('NiseSegaSonic.woff2') format('woff2'),
+        url('NiseSegaSonic.woff') format('woff'),
+        url('NiseSegaSonic.ttf') format('truetype'),
+        url('NiseSegaSonic.svg#NiseSegaSonic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ethnocentric Rg';
+    src: url('EthnocentricRg-Regular.eot');
+    src: url('EthnocentricRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('EthnocentricRg-Regular.woff2') format('woff2'),
+        url('EthnocentricRg-Regular.woff') format('woff'),
+        url('EthnocentricRg-Regular.ttf') format('truetype'),
+        url('EthnocentricRg-Regular.svg#EthnocentricRg-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
