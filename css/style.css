@@ -358,7 +358,7 @@ h1, h2 {
       height: 100%;
       background-color: #00ecf8;
       border-radius: 10vw;
-      box-shadow: 10px 0px 15px 0px var(--header-text-color);
+      box-shadow: 10px 0px 15px 0px #00ecf8;
       animation: load 2s linear infinite; }
   #loader .loading_2 {
     position: absolute;
